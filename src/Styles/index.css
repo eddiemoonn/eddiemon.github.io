@@ -1,0 +1,18 @@
+main{
+display: flex;
+align-items: center ;
+justify-content: center;
+height: 100vh;
+
+}
+button.button{
+    border: none;
+    background-color: transparent;
+    font-family: inherit;
+    padding: 0;
+    cursor: pointer;
+}
+footer.footer{
+    text-align: center;
+    justify-content: baseline;
+}
