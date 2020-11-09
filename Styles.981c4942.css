@@ -1,0 +1,24 @@
+main{
+display: flex;
+align-items: center ;
+justify-content: center;
+height: 100vh;
+
+}
+button.button{
+    border: none;
+    background-color: transparent;
+    font-family: inherit;
+    padding: 0;
+    cursor: pointer;
+}
+footer.footer{
+    text-align: center;
+    justify-content: baseline;
+    bottom: 0;
+    background-color: brown;
+    color: white;
+}
+
+
+/*# sourceMappingURL=/Styles.981c4942.css.map */
