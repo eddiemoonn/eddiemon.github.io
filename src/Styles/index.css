@@ -15,4 +15,7 @@ button.button{
 footer.footer{
     text-align: center;
     justify-content: baseline;
+    bottom: 0;
+    background-color: brown;
+    color: white;
 }
